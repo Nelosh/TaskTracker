@@ -1,4 +1,4 @@
-package lv.tti.TaskTracker
+package lv.tti.tasktracker
 
 import org.springframework.boot.autoconfigure.SpringBootApplication
 import org.springframework.boot.runApplication

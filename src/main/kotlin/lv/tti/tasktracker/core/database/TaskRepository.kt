@@ -1,6 +1,6 @@
-package lv.tti.TaskTracker.core.database
+package lv.tti.tasktracker.core.database
 
-import lv.tti.TaskTracker.core.domain.Task
+import lv.tti.tasktracker.core.domain.Task
 import org.springframework.data.jpa.repository.JpaRepository
 import javax.transaction.Transactional
 

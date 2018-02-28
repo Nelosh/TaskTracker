@@ -1,7 +1,7 @@
-package lv.tti.TaskTracker.core.utilities
+package lv.tti.tasktracker.core.utilities
 
-import lv.tti.TaskTracker.core.domain.Task
-import lv.tti.TaskTracker.dto.TaskDto
+import lv.tti.tasktracker.core.domain.Task
+import lv.tti.tasktracker.dto.TaskDto
 
 /* * * * * * * * * * * * * * * * * * * * * * * * * * *
  *  Transformations from dto to domain objects

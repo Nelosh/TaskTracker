@@ -1,8 +1,7 @@
-package lv.tti.TaskTracker.rest
+package lv.tti.tasktracker.rest
 
-import lv.tti.TaskTracker.core.domain.Task
-import lv.tti.TaskTracker.core.services.TaskService
-import lv.tti.TaskTracker.dto.TaskDto
+import lv.tti.tasktracker.core.services.TaskService
+import lv.tti.tasktracker.dto.TaskDto
 import org.springframework.beans.factory.annotation.Autowired
 import org.springframework.web.bind.annotation.*
 

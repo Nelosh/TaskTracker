@@ -1,4 +1,4 @@
-package lv.tti.TaskTracker.core.domain
+package lv.tti.tasktracker.core.domain
 
 import javax.persistence.Column
 import javax.persistence.Entity

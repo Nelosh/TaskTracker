@@ -1,10 +1,9 @@
-package lv.tti.TaskTracker.core.services
+package lv.tti.tasktracker.core.services
 
-import lv.tti.TaskTracker.core.database.TaskRepository
-import lv.tti.TaskTracker.core.domain.Task
-import lv.tti.TaskTracker.core.utilities.toDomain
-import lv.tti.TaskTracker.core.utilities.toDto
-import lv.tti.TaskTracker.dto.TaskDto
+import lv.tti.tasktracker.core.database.TaskRepository
+import lv.tti.tasktracker.core.utilities.toDomain
+import lv.tti.tasktracker.core.utilities.toDto
+import lv.tti.tasktracker.dto.TaskDto
 import org.springframework.beans.factory.annotation.Autowired
 import org.springframework.stereotype.Service
 

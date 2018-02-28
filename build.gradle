@@ -63,11 +63,9 @@ dependencies {
 //	logger
 	compile 'io.github.microutils:kotlin-logging:1.4.9'
 
-
 //	persistence
 	compile('org.springframework.boot:spring-boot-starter-data-jpa')
 	runtime('com.h2database:h2:1.4.196')
-
 
 //	tests
 	testCompile('org.springframework.boot:spring-boot-starter-test')
