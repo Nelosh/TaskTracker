@@ -1,7 +1,6 @@
 package lv.tti.TaskTracker
 
-import lv.tti.TaskTracker.model.TaskRepository
-import org.junit.Assert
+import lv.tti.TaskTracker.core.database.TaskRepository
 import org.junit.Assert.assertTrue
 import org.junit.Test
 import org.junit.runner.RunWith
